@@ -53,7 +53,7 @@ This application utilizes an Anvil Data Table to persist historical AI analysis 
 
 ```
 stock-ai-analysis/
-├── anvil_frontend/        # Anvil client project files
+├── frontend/        # Anvil client project files
 │   ├── Form1.py           # Main form for stock chart & AI analysis
 │   ├── Form2.py           # Form for option chain analysis
 │   ├── Form3.py           # Form for earnings calendar
