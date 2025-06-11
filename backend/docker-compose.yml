@@ -1,0 +1,7 @@
+services:
+  an-uplink:
+    restart: always
+    container_name: an-uplink
+    image: an-uplink
+    build:
+      context: .
