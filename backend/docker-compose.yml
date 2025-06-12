@@ -5,3 +5,5 @@ services:
     image: an-uplink
     build:
       context: .
+    env_file:
+      - .env
