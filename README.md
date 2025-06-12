@@ -63,6 +63,7 @@ stock-ai-analysis/
 │   ├── app.py             # Main Python script with Anvil Uplink functions
 │   ├── Dockerfile         # Docker build instructions for the backend
 │   ├── requirements.txt   # Python dependencies
+│   ├── docker-compose.yml # Defines Docker services for easy setup
 │   ├── .env.example       # Template for environment variables (e.g., API keys)
 │   └── ...                # Other Docker related files
 │
