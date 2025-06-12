@@ -1,6 +1,6 @@
-# 📈 Stock AI Analysis
+# Stock AI Analysis
 
-## Unleash AI-Powered Insights into Stock Market Dynamics
+## 📈 Unleash AI-Powered Insights into Stock Market Dynamics
 
 This project demonstrates a powerful full-stack application for real-time stock market analysis, combining robust Python data processing with a user-friendly Anvil client interface. Leveraging the power of Google's Gemini AI, it provides insightful technical analysis of stock charts and option chains, helping users make informed trading decisions.
 
