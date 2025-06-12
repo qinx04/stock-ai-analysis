@@ -18,6 +18,7 @@ This project demonstrates a powerful full-stack application for real-time stock 
 
 ![Stock AI Analysis Screenshot](project_screenshot1.png)
 ![Stock AI Analysis Screenshot](project_screenshot2.png)
+![Stock AI Analysis Screenshot](project_screenshot3.png)
 
 ## 🛠️ Technologies Used
 
