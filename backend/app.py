@@ -14,8 +14,6 @@ from zoneinfo import ZoneInfo
 
 ny_now = datetime.datetime.now(ZoneInfo('America/New_York'))
 
-GOOGLE_API_KEY = ''
-
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
 MODEL_ID = 'gemini-2.5-flash-preview-04-17' # @param ['gemini-2.0-flash-lite','gemini-2.0-flash','gemini-2.5-flash-preview-04-17','gemini-2.5-pro-exp-03-25']
@@ -42,7 +40,7 @@ CHAT_CONFIG = genai.types.GenerateContentConfig(
 
 import anvil.server
 
-anvil.server.connect('')
+anvil.server.connect(ANVIL_UPLINK_KEY)
 
 """# 1 Chart"""
 
