@@ -16,7 +16,7 @@ This project demonstrates a powerful full-stack application for real-time stock 
 
 ## 🚀 Live Demo
 
-[![Stock AI Analysis Screenshot](project_screenshot1.png)](https://www.flickr.com)
+![Stock AI Analysis Screenshot](project_screenshot1.png)
 ![Stock AI Analysis Screenshot](project_screenshot2.png)
 
 ## 🛠️ Technologies Used
