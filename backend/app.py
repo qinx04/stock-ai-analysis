@@ -11,8 +11,12 @@ import io
 import requests
 import datetime
 from zoneinfo import ZoneInfo
+import os
 
 ny_now = datetime.datetime.now(ZoneInfo('America/New_York'))
+
+GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
+ANVIL_UPLINK_KEY = os.environ['ANVIL_UPLINK_KEY']
 
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
